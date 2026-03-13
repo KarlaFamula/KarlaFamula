@@ -10,7 +10,10 @@
 - Java
 - Flutter
 - Git e GitHub
+- Phyton
+- HTML
+- SQL
 
 ## Contato
-📧 seuemail@email.com
-💼 LinkedIn: seu-link
+📧 karlafamula@gmail.com
+💼 LinkedIn: www.linkedin.com/in/karla-famula
