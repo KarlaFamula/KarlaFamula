@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**KarlaFamula/KarlaFamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Oi, eu sou a Karla 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Sistemas de Informação na FIAP  
+💻 Interessada em desenvolvimento e dados  
+🚀 Já participei do projeto Colabora+ (Top 3)  
+
+## Tecnologias que estou aprendendo
+- Java
+- Flutter
+- Git e GitHub
+
+## Contato
+📧 seuemail@email.com
+💼 LinkedIn: seu-link
