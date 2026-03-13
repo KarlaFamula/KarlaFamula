@@ -45,8 +45,8 @@ Apaixonada por tecnologia, desenvolvimento e inovação 🚀
 
 ---
 
- 📫 Contato
 
-## Contato
+
+## Contato  📫 
 📧 karlafamula@gmail.com
 💼 LinkedIn: www.linkedin.com/in/karla-famula
