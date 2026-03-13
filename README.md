@@ -26,13 +26,6 @@ Apaixonada por tecnologia, desenvolvimento e inovação 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
-
-
 
 ---
 
