@@ -10,7 +10,7 @@ Apaixonada por tecnologia, desenvolvimento e inovação 🚀
 ## 👩‍💻 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação na FIAP**  
-🤖 No primeiro ano desenvolvi um **projeto de robô Hermes**  
+🤖 No primeiro ano participei do desenvolvimento do Robô Hermes, evento da NEXT FIAP! 
 🏆 No segundo ano participei do **Colabora+ em parceria com a Vivo (Top 3)**  
 📚 Atualmente estudando **Java, testes com JUnit e Flutter**  
 💡 Interesse em **tecnologia, dados e desenvolvimento de software**
